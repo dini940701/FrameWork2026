@@ -1,0 +1,11 @@
+Product Name : MacBook
+Header text : MacBook
+Total no.of images for the product : 5
+Header MacBook
+Image Count 5
+Brand Apple
+Product Code Product 16
+Reward Points 600
+Availability In Stock
+price $602.00
+extaxprice $500.00

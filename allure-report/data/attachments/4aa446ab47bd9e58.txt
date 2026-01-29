@@ -1,0 +1,3 @@
+Product Name : MacBook
+Header text : MacBook
+Total no.of images for the product : 5
