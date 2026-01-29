@@ -91,7 +91,7 @@ export class PDP{
     async addToCart():Promise<boolean>{
         await this.eleUtil.doFill(this.quantity,'2');
         await this.eleUtil.doClick(this.addProductToCartButton);
-        const success=await this.eleUtil.waitForElementVisible(this.successMessage,500);
+        const success=await this.eleUtil.waitForElementVisible(this.successMessage,1000);
         return success;
     }
 
