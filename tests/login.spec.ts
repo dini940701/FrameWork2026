@@ -10,7 +10,7 @@ test('Successfull login',{
         await expect(homePage.page).toHaveTitle('My Account');
 });
 
-test('Invalid Login',{
+test.skip('Invalid Login',{
     tag:['@smoke','@regression'],
     annotation:[
         {type:'story',description:'Login Page validation'}

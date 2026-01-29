@@ -52,7 +52,7 @@ export default defineConfig({
   },
 
 metadata:{
-  appUserName:'dinesh2@mail.com',
+  appUserName:'dinesh004@gmail.com',
   appPassword:'1@Dinesh'
 },
 
