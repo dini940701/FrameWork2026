@@ -146,6 +146,6 @@ jobs:
       - name: Report URLs
         run: |
           echo "Reports Published!"
-          echo "Playwright Built-in: https://dini940701.github.io/RedCross/playwright-report/index.html"
-          echo "Playwright HTML Reporter: https://dini940701.github.io/RedCross/playwright-html-report/index.html"
-          echo "Allure: https://dini940701.github.io/RedCross/allure-report/index.html"
+          echo "Playwright Built-in: https://dini940701.github.io/FrameWork2026/playwright-report/index.html"
+          echo "Playwright HTML Reporter: https://dini940701.github.io/FrameWork2026/playwright-html-report/index.html"
+          echo "Allure: https://dini940701.github.io/FrameWork2026/allure-report/index.html"
